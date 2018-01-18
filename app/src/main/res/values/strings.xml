@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RobinTool</string>
+
+    <string name="act_main">Read File</string>
+    <string name="btn_read">READ</string>
+    <string name="btn_clear">CLEAR</string>
+    <string name="toast_file_path_empty">file path empty</string>
+</resources>
